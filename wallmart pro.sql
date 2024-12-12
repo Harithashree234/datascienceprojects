@@ -1,6 +1,6 @@
 create database wallmart;
 use wallmart;
-drop database wallmart;
+
 
 -- category
 select * from category;
